@@ -1,0 +1,15 @@
+## Pixel Art Generator/Painter
+- Feito com:
+    - HTML
+    - CSS
+    - JS
+- Totalmente utilizável tanto no Mobile quanto no Desktop
+- Botões para:
+    - Gerar grade
+    - Apagar a grade
+    - Selecionar cor
+    - Pintar
+    - Apagar
+    - Range Y
+    - Range X
+- Baseado no projeto do ASMRProg
